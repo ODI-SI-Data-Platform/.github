@@ -1,4 +1,4 @@
-# Welcome to the SDCP Github Organization
+# Welcome to the SCDP Github Organization
 
 We're glad you're here.
 
