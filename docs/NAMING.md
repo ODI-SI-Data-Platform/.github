@@ -12,5 +12,5 @@ All repositories should be named only using lowercase letters for compatibility 
 Accounts should be named as `[TENANT_NAME|Platform] [ENVIRONMENT] [PRODUCT] [OPTIONAL_DESCRIPTOR]`, where:
 - `TENANT_NAME` is currently one of [`CDAIO`, `JAMES`, `NZCBI`] or `Platform` if it's a piece of shared infrastructure 
 - `ENVIRONMENT` is currently one of [`PROD`, `UAT`, `TEST`, `SBX`]
-- `PRODUCT` is the feature or product on the platform the repository contains
+- `PRODUCT` is the feature or product on the platform the account contains
 - `OPTIONAL_DESCRIPTOR` is for helping users differentiate subparts
